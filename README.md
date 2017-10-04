@@ -1,0 +1,2 @@
+# BASH-Scripting
+lab exercises
